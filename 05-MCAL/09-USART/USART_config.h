@@ -1,0 +1,6 @@
+#ifndef _USART_CONFIG_H
+#define _USART_CONFIG_H
+
+#define USART_USER_TIMEOUT  200000
+
+#endif // _USART_CONFIG_H
